@@ -1,0 +1,1 @@
+pandoc -s -o lernOS-EDMOD-Guide-de.epub lernOS-EDMOD-Guide-de.md

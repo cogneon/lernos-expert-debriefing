@@ -1,0 +1,1 @@
+pandoc -s -o lernOS-EDMOD-Guide-de.docx lernOS-EDMOD-Guide-de.md
