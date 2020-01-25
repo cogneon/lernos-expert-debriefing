@@ -1,1 +1,0 @@
-pandoc lernOS-EDMOD-Guide-de.md metadata.yaml -o lernOS-EDMOD-Guide-de.pdf --from markdown --template lernOS -V lang=de-de
