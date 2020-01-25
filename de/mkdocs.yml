@@ -21,6 +21,10 @@ theme:
 repo_name: 'cogneon/lernos-expert-debriefing'
 repo_url: 'https://github.com/cogneon/lernos-expert-debriefing'
 
+google_analytics:
+  - 'UA-156969141-1'
+  - 'auto'
+
 extra:
     social:
         - type: 'twitter'
