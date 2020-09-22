@@ -8,19 +8,9 @@ Da jeder Experte mit seinem Wissen und seiner Neigung zu Werkzeugen der Wissensb
 
 Mit diesem Leitfaden lernst du alle Grundlagen des Expert Debriefings kennen. Mit den Übungen (Katas) aus dem Lernpfad lernst du den ganzen Prozess kennen.  
 
-## Geschichte des Expert Debriefings
 
-Anhand der folgenden Punkte ist die Geschichte des Expert Debriefings kurz dargestellt (ausführlich unter [Geschichte der Cogneon Methode Expert Debriefing](https://wiki.cogneon.de/Geschichte_der_Cogneon_Methode_Expert_Debriefing)).
 
-- Ende der 1990er: Wissensbewahrungsprojekte mit dem Fokus Wissensdokumentation bei der Audi AG
-- Ab 1999: Entwicklung eines expliziten „Expert Debriefing Prozesses“ für Einzelexperten
-- 2002/2003: Erste Multiplikatorenschulungen bei Volkswagen (dort  Wissensstafette genannt, 2006 Gewinn des Preises Wissensmanager des  Jahres)
-- 2005: Expert Debriefing Einführung bei Schaeffler, dort Kopplung mit Wiki und Wissensgemeinschaften
-- Ab 2007: Flächendeckende Verbreitung von Expert Debriefing durch offenes Schulungsangebot
-
-Das Expert Debriefing wird auch unter den Synonymen Wissensstafette,  Transferwerk, Wissensstaffel, Keep Experience  und Strukturierte  Wissensweitergabe in diversen Unternehmen angewendet. Seit Juni 2011  gibt es eine Expert Debriefing Benchlearning Gruppe, in der sich  Unternehmen, mit langjähriger Anwendungserfahrung, regelmäßig  austauschen.
-
-## Warum ist Wissensbewahrung heute wichtig?
+## Warum Expert Debriefing?
 
 „Nicht Arbeit, nicht Kapital, nicht Land und Rohstoffe sind die  Produktionsfaktoren, die heute in  unserer Gesellschaft zählen, sondern  das Wissen der Mitarbeiter in den Unternehmen.“  Peter F. Drucker (1909 - 2005)
 
@@ -59,7 +49,19 @@ Das Mitarbeiterengagement ist seit 2004 gesunken.  33 % der Arbeitnehmer in Deut
 
 Das Arbeitsmodell „Arbeit in einem Unternehmen bis zur goldenen  Uhr“ hat ausgedient. Gelebte Work-Life-Balance, Individualisierung und  Selbstverwirklichung sind aktuelle Trends. Damit steht auch fest, dass  es einen anderen Umgang mit dem Thema Wissen bzw. Wissensbewahrung in  den Unternehmen geben muss. Wie stellt sich ein Unternehmen auf diese  neuen Jobrealitäten ein? Welche Möglichkeiten der Wissensbewahrung gibt  es?
 
-## Implizitem und explizites Wissen transferrieren
+## Geschichte des Expert Debriefings
+
+Anhand der folgenden Punkte ist die Geschichte des Expert Debriefings kurz dargestellt (ausführlich unter [Geschichte der Cogneon Methode Expert Debriefing](https://wiki.cogneon.de/Geschichte_der_Cogneon_Methode_Expert_Debriefing)).
+
+- Ende der 1990er: Wissensbewahrungsprojekte mit dem Fokus Wissensdokumentation bei der Audi AG
+- Ab 1999: Entwicklung eines expliziten „Expert Debriefing Prozesses“ für Einzelexperten
+- 2002/2003: Erste Multiplikatorenschulungen bei Volkswagen (dort  Wissensstafette genannt, 2006 Gewinn des Preises Wissensmanager des  Jahres)
+- 2005: Expert Debriefing Einführung bei Schaeffler, dort Kopplung mit Wiki und Wissensgemeinschaften
+- Ab 2007: Flächendeckende Verbreitung von Expert Debriefing durch offenes Schulungsangebot
+
+Das Expert Debriefing wird auch unter den Synonymen Wissensstafette,  Transferwerk, Wissensstaffel, Keep Experience  und Strukturierte  Wissensweitergabe in diversen Unternehmen angewendet. Seit Juni 2011  gibt es eine Expert Debriefing Benchlearning Gruppe, in der sich  Unternehmen, mit langjähriger Anwendungserfahrung, regelmäßig  austauschen.
+
+## Transfer von implizitem und explizitem Wissen
 
 Ergänzen: implizites Wissen, Deep Smarts
 
@@ -82,12 +84,16 @@ Beide Lösungen sind richtig – jedes Unternehmen muss für sich  entscheiden, 
 
 Die Methode Expert Debriefing wurde von Cogneon 1999 entwickelt. Damit kann auf eine lange Zeitperiode zurückgeblickt werden, in der die Methode in unterschiedlichen Branchen und in unterschiedlichen Unternehmensgrößen zum Einsatz kam. Die gesammelten Erfahrungen wurden dazu genutzt, das Expert Debriefing stetig weiterzuentwickeln. Gleichzeitig wurden von Cogneon, als auch von anderen Anwendern der Methode Erfolgsfaktoren identifiziert, die im Folgenden aufgeführt sind.
 
-* **Die Teilnahme am Expert Debriefing ist freiwillig:** Die ausdrückliche Bereitschaft des Experten sein Wissen zu teilen ist existenziell. Die Motivation des Experten, dies zu tun, ist von der Ausgangsbasis für die Durchführung des Expert Debriefings abhängig. Gehen Experten in den Ruhestand oder liegt eine Kündigung des Experten vor und er ist dem Unternehmen wohlgesonnen (z.B. wenn der Experte aus privaten Gründen umzieht), ist eine hohe Motivation vorhanden. Wird unternehmensseitig eine Kündigung ausgesprochen, z.B. im Rahmen von Umstrukturierungsmaßnahmen, kann das Expert Debriefing in die Aufhebungs- oder Sozialverhandlungen mit eingebunden werden. Bei zerrütteten Arbeitsverhältnissen und deren Beendigung ist hingegen kaum noch eine Motivation vorhanden.
-* **Vorgesetzte stehen hinter dem Prozess, lassen aber Freiräume zu:** Der Vorgesetzte verantworte die Ressourcen (Zeit des Experten/ ggf. der Nachfolger, Budget, Ort) für die Prozessdurchführung und ist maßgeblich an der Festlegung der Zielinhalte beteiligt. Das Commitment des Vorgesetzten ist daher notwendig, damit die Transfermaßnahmen im Prozessverlauf reibungslos umgesetzt werden können. Sind Auftraggeber und Vorgesetzte nicht identisch, so sind beide in den Prozess zu involvieren. Unstimmigkeiten sind von den beiden Parteien direkt zu klären. Die Erhebung der persönlichen Wissenslandkarte sollte ohne den Vorgesetzten erfolgen, da der Experte dann i.d.R. offener agiert (gerade im Bereich der Lessons Learned)
-* **Transparenz schaffen und Erwartungshaltungen der Beteiligten abholen:** Transparenz (Warum das Expert Debriefing erfolgt, Was sind die Inhalte und was passiert mit den Ergebnissen) im Vorfeld erzeugen. Der Abstrakte Prozess kann durch Fallbeispiele konkretisiert werden. Ein Vorgespräch mit Auftraggeber und/oder Vorgesetzen, sowie Experten und falls vorhanden dem Nachfolger nimmt Erwartungen auf, klärt auf und nimmt dadurch Ängste.
-* **Den Prozess professionell und auf Augenhöhe moderieren:** Respektvoller und Vertrauensvoller Umgang zwischen Moderator, Experten und Nachfolger ermöglichen das Erheben eines breiten Wissensspektrums und das erschließen „impliziten“ Wissens. Explizites Wissen sollte explizit übergeben werden (Vorhandene Dokumentationen). Implizites Wissen sollte externalisiert werden (z.B. durch Erfahrungsgeschichten und Podcasts). Der Moderator sollte dabei eine gewisse Augenhöhe zum Experten haben, d.h. das Begrifflichkeiten bekannt sind. Dazu muss sich der Moderator ggf. im Vorfeld in die Thematik einlesen.
-* **Den Experten durch Wertschätzung motivieren:** Eine Wertschätzung des Experten ist ein hoher Motivationsfaktor für die Bereitschaft, Wissen freizugeben.
-* **Den Prozess durch den Moderator strukturieren und kontrollieren:** Das Aufsetzen des Prozesses mit Vorgespräch, persönlicher Wissenslandkarte und Ableitung eines Maßnahmenplans durch den Moderator gibt die Notwendige Struktur. Die Umsetzung des Maßnahmenplans durch das Transfertandem sollte über regelmäßigen Reviews „kontrolliert“ werden. Der Moderator hat hierbei keine inhaltliche Verantwortung, ist aber für die Prozessabwicklung verantwortlich. Werden Maßnahmen nicht termingerecht umgesetzt, muss er intervenieren und ggf. an den Vorgesetzten eskalieren.
+1. **Die Teilnahme am Expert Debriefing ist freiwillig:** Die ausdrückliche Bereitschaft des Experten sein Wissen zu teilen ist existenziell. Die Motivation des Experten, dies zu tun, ist von der Ausgangsbasis für die Durchführung des Expert Debriefings abhängig. Gehen Experten in den Ruhestand oder liegt eine Kündigung des Experten vor und er ist dem Unternehmen wohlgesonnen (z.B. wenn der Experte aus privaten Gründen umzieht), ist eine hohe Motivation vorhanden. Wird unternehmensseitig eine Kündigung ausgesprochen, z.B. im Rahmen von Umstrukturierungsmaßnahmen, kann das Expert Debriefing in die Aufhebungs- oder Sozialverhandlungen mit eingebunden werden. Bei zerrütteten Arbeitsverhältnissen und deren Beendigung ist hingegen kaum noch eine Motivation vorhanden.
+2. **Vorgesetzte stehen hinter dem Prozess, lassen aber Freiräume zu:** Der Vorgesetzte verantworte die Ressourcen (Zeit des Experten/ ggf. der Nachfolger, Budget, Ort) für die Prozessdurchführung und ist maßgeblich an der Festlegung der Zielinhalte beteiligt. Das Commitment des Vorgesetzten ist daher notwendig, damit die Transfermaßnahmen im Prozessverlauf reibungslos umgesetzt werden können. Sind Auftraggeber und Vorgesetzte nicht identisch, so sind beide in den Prozess zu involvieren. Unstimmigkeiten sind von den beiden Parteien direkt zu klären. Die Erhebung der persönlichen Wissenslandkarte sollte ohne den Vorgesetzten erfolgen, da der Experte dann i.d.R. offener agiert (gerade im Bereich der Lessons Learned)
+3. **Transparenz schaffen und Erwartungshaltungen der Beteiligten abholen:** Transparenz (Warum das Expert Debriefing erfolgt, Was sind die Inhalte und was passiert mit den Ergebnissen) im Vorfeld erzeugen. Der Abstrakte Prozess kann durch Fallbeispiele konkretisiert werden. Ein Vorgespräch mit Auftraggeber und/oder Vorgesetzen, sowie Experten und falls vorhanden dem Nachfolger nimmt Erwartungen auf, klärt auf und nimmt dadurch Ängste.
+4. **Den Prozess professionell und auf Augenhöhe moderieren:** Respektvoller und Vertrauensvoller Umgang zwischen Moderator, Experten und Nachfolger ermöglichen das Erheben eines breiten Wissensspektrums und das erschließen „impliziten“ Wissens. Explizites Wissen sollte explizit übergeben werden (Vorhandene Dokumentationen). Implizites Wissen sollte externalisiert werden (z.B. durch Erfahrungsgeschichten und Podcasts). Der Moderator sollte dabei eine gewisse Augenhöhe zum Experten haben, d.h. das Begrifflichkeiten bekannt sind. Dazu muss sich der Moderator ggf. im Vorfeld in die Thematik einlesen.
+5. **Den Experten durch Wertschätzung motivieren:** Eine Wertschätzung des Experten ist ein hoher Motivationsfaktor für die Bereitschaft, Wissen freizugeben.
+6. **Den Prozess durch den Moderator strukturieren und kontrollieren:** Das Aufsetzen des Prozesses mit Vorgespräch, persönlicher Wissenslandkarte und Ableitung eines Maßnahmenplans durch den Moderator gibt die Notwendige Struktur. Die Umsetzung des Maßnahmenplans durch das Transfertandem sollte über regelmäßigen Reviews „kontrolliert“ werden. Der Moderator hat hierbei keine inhaltliche Verantwortung, ist aber für die Prozessabwicklung verantwortlich. Werden Maßnahmen nicht termingerecht umgesetzt, muss er intervenieren und ggf. an den Vorgesetzten eskalieren.
+
+## Rollen im Expert Debriefing
+
+...
 
 ## Expert Debriefing Referenzprozess
 
@@ -677,29 +683,52 @@ zu müssen.
 
 ## Praxisbeispiel Expert Debriefing
 
+Das folgende Praxisbeispiel zeigt in Anlehnung an ein reales Fallbeispiel ein Expert Debriefing bei einem Zulieferer der Automobil- und Maschinenbauindustrie.
+
 ### Der Experte Herr Relda
 
-...
+Herr Relda ist bereits seit mehr als zwei Jahrzehnten im Unternehmen. In seiner Arbeitshistorie war er im Bereich technischer Fachthemen (z.B. rotative Lager) tätig und für die Bearbeitung von Reklamationen zuständig. In den Jahren vor seinem Ruhestand hat er sein Wissen vermehrt in internen Schulungen weitergegeben und bei Kunden sog. Hausmessen zur Vorstellung innovativer Produkte organisiert.
+
+BILD
+
+Der Vorgesetzte gibt Herr Relda bei der Definition notwendiger Maßnahmen freie Hand. Der Nachfolger für die Aufgaben von Herrn Relda ist ab dem Termin zur Erstellung der persönlichen Wissenslandkarte verfügbar.
 
 ### Die Moderatorin Frau Neres
 
-...
+Frau Neres arbeitet in der Personalentwicklung des Unternehmens mit dem Schwerpunkt Wissensmanagement. Sie hat bereits mehrere Lessons Learned Workshops im Bereich von Herrn Relda moderiert und kennt daher die Fachthemen seiner Abteilung ganz gut.
+
+BILD
+
+Über die Interne Ausbildung zur Expert Debriefing Moderatorin hat sich Frau Neres die Methode angeeignet und bereits erste Praxiserfahrungen mit einem anderen Experten gesammelt. Herr Relda ist aber ihr erstes Projekt, das sich über mehrere Monate erstreckt.
 
 ### Die Wissenslandkarte von Herrn Relda
 
-...
+Nach dem Aufbau der Wissenslandkarte in einem dreistündigen Termin gab es für Herrn Relda das erste Aha-Erlebnis: "So umfassend und gut strukturiert habe ich meine aktuellen Aufgaben noch nie vor mir gesehen!". Ein typischer Effekt der Wissenslandkarte.
+
+BILD
+
+Zentrale Aufgaben für den Nachfolger waren die Durchführung von internen Schulungen und die Organisation von Präsentationen und Hausmessen bei Kunden. Zu beiden Themen lagen Dokumentationen nur verstreut vor und viel Erfahrung befand sich nur im Kopf von Herrn Relda.
 
 ### Maßnahmen der Wissensbewahrung
 
-...
+In einem weiteren zweistündigen Termin hat Frau Neres gemeinsam mit Herrn Relda u.a. folgende Maßnahmen zur Wissensbewahrung herausgearbeitet:
+
+1. **Projekt-Paket Hausmessen:** aus mehreren durchgeführten Hausmessen wurde ein generisches Projektpaket mit Vorlagen, Checklisten, Präsentationen, Plänen, Kalkulationen, Packlisten etc. erarbeitet und dokumentiert.
+2. **FAQ effektive Präsentationen:** in einer Sammlung von Daumenregeln zum effektiven Präsentieren hat Herr Relda seine Erfahrungen aus erfolgreichen Kundenpräsentationen zusammengetragen und dokumentiert.
+3. **Soziales Netzwerk Diagramm:** in einer Ansprechpartnerliste wurden interne und externe Ansprechpartner gesammelt, kommentiert und deren Beziehungsnetzwerk visualisiert.
+4. **Voice over PowerPoint**: für die wichtigsten Schulungspräsentationen hat Herr Relda die Tonspur mit PowerPoint Bordmitteln aufgenommen, um dem Nachfolger das "Wissen zwischen den Spiegelstrichen" zugänglich zu machen.
 
 ### Bauteile als Wissensträger
 
-...
+Viel Wissen zu eigenen Produkten und Produkten von Wettbewerbern konnte Herr Relda auf Basis einer umfangreichen Exponate- und Dokumenten-Sammlung in seinem Büro vermitteln. Diese Exponate wurden für den Nachfolger fotografiert und alle Besonderheiten und Geschichten dokumentiert.
+
+BILD
 
 ### Ein überraschendes Ergebnis
 
-...
+Im Lauf des Expert Debriefings stellte sich heraus, dass Herr Relda sehr viel implizites Wissen hatte, das nur schwierig zu dokumentieren war. Daher wurde mit dem internen Wissensforum ein Veranstaltungsformat ins Leben gerufen, auf dem dieses Wissen an interessierte Kollegen per Wissenskommunikation vermittelt werden konnte. Es kam nicht nur der Nachfolger, sondern 70 weitere Kollegen!
+
+BILD
 
 ## Weiterführende Information
 
