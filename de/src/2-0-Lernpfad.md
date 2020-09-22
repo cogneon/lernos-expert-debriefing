@@ -1,3 +1,3 @@
-# Lernpfad Expert Debriefing
+# Lernpfad
 
 * Kata: ...

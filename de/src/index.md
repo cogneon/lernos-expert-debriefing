@@ -1,26 +1,20 @@
+# Vorwort
+
+Viele Organisationen sehen sich in der Wissensgesellschaft des 21. Jahrhundert mit einer ganz besonderen Situation konfrontiert. Durch Globalisierung, Digitalisierung sowie schnelle technologische und wissenschaftliche Entwicklung sehen sie sich einem bisher nicht da gewesenen Wettbewerbsdruck gegenübergestellt. Auch der Charakter der Arbeit hat sich geändert. Bestand die Arbeit 1930 noch zu ca. 80% aus manueller Routinearbeit, so dominiert heute die Wissensarbeit. Gleichzeitig führt die Alterung der Gesellschaft durch den [demografischen Wandel](https://de.wikipedia.org/wiki/Demografischer_Wandel), [Fachkräftemangel](https://de.wikipedia.org/wiki/Fachkr%C3%A4ftemangel) und [Jobrotationen](https://de.wikipedia.org/wiki/Jobrotation) zu Verlust von wertvollem [Erfahrungswissen](https://de.wikipedia.org/wiki/Erfahrungswissen) und Schwächung der  Innovationskraft. Deswegen sollten Unternehmen systematische Prozesse der  Wissenssicherung etablieren. Mit dem Expert Debriefing erlernst Du eine  Methode zur systematischen Bewahrung des [Wissens](https://de.wikipedia.org/wiki/Wissen) von [Experten](https://de.wikipedia.org/wiki/Experte).
+
+Die Methode Expert Debriefing dient dazu, das Wissen eines ausscheidenden oder wechselnden Experten der Organisation zu bewahren sowie dem Experten Wertschätzung für seine Leistungen zu zeigen. Um diesen Prozess systematisch zu gestalten, wird ein Expert Debriefing von einem ausgebildeten Moderator begleitet. Expert Debriefings können bei Fach- und Führungskräften gleichermaßen sowie in allen funktionalen Bereichen (Marketing, Vertrieb, Entwicklung, Produktion, Service) durchgeführt werden. Der Begriff des Experten ist hierbei immer relativ in Beziehung zu einer Bezugsgruppe, den Laien, zu verstehen.
+
+![](./images/expert-debriefing-rollen.png)
+
+Da jeder Experte mit seinem Wissen und seiner Neigung zu Werkzeugen der Wissensbewahrung unterschiedlich sind, gibt es keinen One-Size-Fits-All-Ansatz geben. Der Expert Debriefing Referenzprozess ist deshalb so aufgebaut, dass zunächst in einer persönlichen Wissenslandkarte des Experten Überblick über alle möglichen Wissensgebiete aufgebaut wird, um dann auf Basis dieser Übersicht die wichtigsten Maßnahmen auszuwählen. Zur Auswahl der Maßnahmen steht die Expert Debriefing Toolbox mit praxiserprobten Tools und Methoden zur Verfügung.
+
+Mit diesem Leitfaden lernst du alle Grundlagen des Expert Debriefings kennen. Mit den Übungen (Katas) aus dem Lernpfad lernst du den ganzen Prozess kennen.
+
 # Über lernOS
 
-lernOS ist eine Methode zur Selbstorganisation für Menschen, die im 21. Jahrhundert leben und arbeiten. Um heute erfolgreich zu sein, muss man ständig lernen, sich organisieren und weiterentwickeln. Niemand sonst ist für diesen Prozess verantwortlich. Man muss sich selber darum kümmern (selbstgesteuertes, lebenslanges Lernen).
+**lernOS** ist ein [offenes System](https://de.wikipedia.org/wiki/Offenes_System) für [Lebenslanges Lernen](https://de.wikipedia.org/wiki/Lebenslanges_Lernen) und [Lernende Organisationen](https://de.wikipedia.org/wiki/Lernende_Organisation). Die Funktionsweise von lernOS wird in [offen](https://opendefinition.org/od/2.1/de/) verfügbaren **Leitfäden** beschrieben. lernOS kann ganz einfach als **Einzelperson**, im **Team** oder in der gesamten **Organisation** praktiziert werden.
 
-Der Trend Working Out Loud bedeutet, die eigene Arbeit sichtbar zu machen und über die eigene Arbeit zu erzählen, um Vernetzung zu ermöglichen und Hilfe aus dem Netzwerk zu erhalten. Als Plattform kommen oft interne und externe soziale Netzwerke zum Einsatz. Gerade wenn es um den Transport von Wissen zu komplexen Themen oder Emotionen geht, reichen kurze Texte oft nicht aus. Hier eignen sich Audio- und Video-Formate wie Screencasts, Erklärvideos und Podcasts besser.
+Startest du als Einzelperson, empfehlen wir dir, gemeinsam in einem **Circle** (4-5 Personen) oder zumindest in einem **Lerntandem** (2 Personen) zu starten. Weitere Informationen findest du auf der Seite [lernos.org](http://lernos.org). Mitstreiter findest du ganz einfach in der [lernOS Community CONNECT](https://community.cogneon.de). Dort gibt es auch den [lernOS Circlefinder](https://community.cogneon.de/c/lernos/lernos-circlefinder/) als Marktplatz für Circle-Angebote und -Gesuche.
 
-Podcasts haben hierbei den Vorteil, dass sie viel einfacher zu produzieren sind, als Videos. Außerdem können Podcasts an Orten konsumiert werden, an denen die Nutzung von Videos schwierig ist (Pendler, im Auto, im Flugzeug, beim Spazieren etc.). Mit diesem lernOS Leitfaden lernt ihr in einem Learning Sprint, selber Podcast zu machen und zu veröffentlichen. Ihr könnt den Podcasting Lernpfad alleine durchlaufen oder in einem Learning Circle mit 4-5 anderen Personen.
+**KEEP CALM & LEARN ON!**
 
-\@simondueckert
-
-
-Lizenz
-
-lernOS Leitfäden stehen unter der Lizenz [Creative Commons Namensnennung 4.0 International](https://creativecommons.org/licenses/by/4.0/deed.de) (CC BY 4.0): 
-
-![](https://i.creativecommons.org/l/by/4.0/88x31.png)
-
-**Du darfst:**
-
-* **Teilen** - das Material in jedwedem Format oder Medium vervielfältigen und weiterverbreiten.
-* **Bearbeiten** - das Material remixen, verändern und darauf aufbauen und zwar für beliebige Zwecke, sogar kommerziell.
-
-**Unter folgenden Bedingungen:**
-
-- **Namensnennung** - Du musst angemessene Urheber- und Rechteangaben machen, einen Link zur Lizenz beifügen und angeben, ob Änderungen vorgenommen wurden. Diese Angaben dürfen in jeder angemessenen Art und Weise gemacht werden, allerdings nicht so, dass der Eindruck entsteht, der Lizenzgeber unterstütze gerade Sie oder Ihre Nutzung besonders.
-- **Keine weiteren Einschränkungen** - Du darst keine zusätzlichen Klauseln oder technische Verfahren einsetzen, die anderen rechtlich irgendetwas untersagen, was die Lizenz erlaubt.
