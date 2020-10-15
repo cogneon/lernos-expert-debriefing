@@ -6,7 +6,7 @@ REM See lernOS Core Repository
 
 REM Variables
 set filename="lernOS-expert-debriefing-Guide-de"
-set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/2-0-Lernpfad.md ./src/3-Anhang.md
+set chapters=./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Geschichte-des-Expert-Debriefings.md ./src/1-2-Warum-ist-Wissensbewahrung-heute-wichtig.md ./src/1-3-Implizites-und-explizites-Wissen.md ./src/1-4-Erfolgsfaktoren-fuer-Expert-Debriefing.md ./src/1-5-0-Expert-Debriefing-Referenzprozess.md ./src/1-5-1-Vorgespraech-fuehren.md ./src/1-5-2-Wissenslandkarte-aufbauen.md ./src/1-5-3-Massnahmen-ableiten.md ./src/1-5-4-Feedback-einholen.md ./src/1-5-5-Massnahmen-begleiten.md ./src/1-5-6-Reflexion-moderieren.md ./src/1-6-0-Expert-Debriefing-Toolbox.md ./src/1-6-1-Checkliste.md ./src/1-6-2-Dokumentenbibliothek.md ./src/1-6-3-Lessons-Learned.md ./src/1-6-4-Erklaervideo.md ./src/1-6-5-FAQ.md ./src/1-6-6-Memex.md ./src/1-6-7-Podcast.md ./src/1-6-8-Soziales-Netzwerk-Diagramm.md ./src/1-6-9-Voice-over-PowerPoint.md ./src/1-6-10-Screencast.md ./src/2-0-Lernpfad.md ./src/3-Anhang.md
 
 REM Delete Old Versions
 echo Deleting old versions ...
