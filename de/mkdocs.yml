@@ -1,8 +1,6 @@
 site_name: lernOS Expert Debriefing Leitfaden
 site_url: https://cogneon.github.io/
-
 docs_dir: src
-
 site_dir: ../docs/de
 
 nav:
@@ -34,6 +32,16 @@ nav:
             - Screencast: 1-6-10-Screencast.md
     - Lernpfad: 2-0-Lernpfad.md
     - Anhang: 3-Anhang.md
+    - Download:
+      - PDF-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.epub
+      - E-Book (mobi): https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.mobi
+    - Links:
+      - lernOS Website: https://lernos.org
+      - lernOS Community: https://community.cogneon.de
+      - Peerfinder: https://web.peerfinder.app
 
 theme:
     name: 'material'
@@ -41,13 +49,12 @@ theme:
         primary: 'deep orange'
         accent: 'deep orange'
     language: de
+    icon:
+      logo: material/home
+      repo: fontawesome/brands/github
 
 repo_name: 'cogneon/lernos-expert-debriefing'
 repo_url: 'https://github.com/cogneon/lernos-expert-debriefing'
-
-google_analytics:
-  - 'UA-156969141-1'
-  - 'auto'
 
 extra:
     social:
@@ -58,3 +65,14 @@ extra:
         - icon: fontawesome/brands/github
           link: https://github.com/cogneon
     disqus: lernos
+
+markdown_extensions:
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+plugins:
+  - search
+  - mermaid2
