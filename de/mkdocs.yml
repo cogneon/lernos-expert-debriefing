@@ -45,13 +45,16 @@ nav:
 
 theme:
     name: 'material'
+    custom_dir: src/overrides
     palette:
-        primary: 'deep orange'
-        accent: 'deep orange'
+        scheme: lernos
     language: de
     icon:
       logo: material/home
       repo: fontawesome/brands/github
+
+extra_css:
+  - stylesheets/extra.css
 
 repo_name: 'cogneon/lernos-expert-debriefing'
 repo_url: 'https://github.com/cogneon/lernos-expert-debriefing'
@@ -59,12 +62,14 @@ repo_url: 'https://github.com/cogneon/lernos-expert-debriefing'
 extra:
     social:
         - icon: fontawesome/brands/twitter
-          link: https://twitter.com/lern_os
+          link: 'https://twitter.com/lern_os'
         - icon: fontawesome/brands/linkedin
-          link: https://www.linkedin.com/showcase/lern-os
+          link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
-          link: https://github.com/cogneon
+          link: 'https://github.com/cogneon'
     disqus: lernos
+    analytics:
+       provider: custom
 
 markdown_extensions:
   - pymdownx.superfences:

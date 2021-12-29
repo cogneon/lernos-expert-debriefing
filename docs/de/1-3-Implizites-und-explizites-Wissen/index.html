@@ -11,13 +11,29 @@
 <title>Implizites und explizites Wissen - lernOS Expert Debriefing Leitfaden</title>
 <link href="../assets/stylesheets/main.82f3c0b9.min.css" rel="stylesheet"/>
 <link href="../assets/stylesheets/palette.9204c3b2.min.css" rel="stylesheet"/>
-<meta content="#ff6e42" name="theme-color"/>
 <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
 <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&amp;display=fallback" rel="stylesheet"/>
 <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+<link href="../stylesheets/extra.css" rel="stylesheet"/>
 <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="https://analytics.cogneon.de/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '5']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img alt="" src="https://analytics.cogneon.de/matomo.php?idsite=5&amp;rec=1" style="border:0;"/></p></noscript>
+<!-- End Matomo Code -->
 </head>
-<body data-md-color-accent="deep-orange" data-md-color-primary="deep-orange" data-md-color-scheme="" dir="ltr">
+<body data-md-color-accent="" data-md-color-primary="" data-md-color-scheme="lernos" dir="ltr">
 <input autocomplete="off" class="md-toggle" data-md-toggle="drawer" id="__drawer" type="checkbox"/>
 <input autocomplete="off" class="md-toggle" data-md-toggle="search" id="__search" type="checkbox"/>
 <label class="md-overlay" for="__drawer"></label>
@@ -402,10 +418,38 @@
 </div>
 <div class="md-content" data-md-component="content">
 <article class="md-content__inner md-typeset">
+<!--
+  Copyright (c) 2016-2021 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+<!-- Edit button -->
 <a class="md-content__button md-icon" href="https://github.com/cogneon/lernos-expert-debriefing/edit/master/docs/1-3-Implizites-und-explizites-Wissen.md" title="Seite editieren">
 <svg viewbox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"></path></svg>
 </a>
+<!--
+  Hack: check whether the content contains a h1 headline. If it
+  doesn't, the page title (or respectively site name) is used
+  as the main headline.
+-->
 <h1>Implizites und explizites Wissen</h1>
+<!-- Markdown content -->
 <h2 id="implizites-und-explizites-wissen">Implizites und explizites Wissen</h2>
 <p>Das Wort <a href="https://de.wikipedia.org/wiki/Wissen">Wissen</a> stammt von althochdeutsch „wizzan“ bzw. der indogermanischen Perfektform „woida“ und bedeutet „ich habe gesehen“, somit auch „ich weiß“. Im Wissenstransfer kann man das sehr leicht beobachten. Kleine Kinder lernen am Anfang durch beobachten und nachmachen. Wissen wird also transferiert, indem eine Beobachtung erfolgt.</p>
 <p>Dieser Mechanismus kann auf die Welt der Erwachsenen übertragen werden. Person A macht etwas und Person B beobachtet Person A dabei. In der nächsten Stufe spricht Person A mit Person B über etwas. Hier wird der Transfer um die Ebene der Sprache erweitert. Es können auch beide Stufen durchlaufen werden, d.h. es wird erst etwas beobachtet und anschließen oder dabei mit einander gesprochen. Da hier die direkte Interaktion zwischen den Wissensträger im Vordergrund steht, spricht man auch von der <strong>Wissenskommunikation</strong>.</p>
@@ -419,6 +463,37 @@
 <li><strong>Lösung mit Fokus auf Wissensdokumentation</strong> - Der Experte erstellt eine Liste der Häufig gestellten Fragen (FAQ-Liste) mit entsprechenden Antworten. Alle eingehenden Fragen verweist er auf die FAQ Liste. Er beschäftigt sich nur mit Anfragen, die nicht in der FAQ-Liste stehen. Die FAQ-Liste wird ständig durch ihn ergänzt. Das Abweisen auf eine FAQ-Liste kann für viele erst einmal unpersönlich vorkommen. Dadurch entsteht nicht so eine hohe Bindung an den Experten. Der Experte hat nach einem anfänglichen Mehraufwand später weniger Aufwand in der Beantwortung von Fragen. Das Unternehmen hat zudem eine Wissensbasis, sollte der Experte einmal ausfallen.</li>
 </ul>
 <p>Beide Lösungen sind möglich – jedes Unternehmen muss für sich entscheiden, welches der richtigere Weg ist. Genauso verhält es sich mit den Wissensbewahrungsmethoden. Häufig könnten verschiedene Methoden zum Einsatz kommen. Entscheidend für die Auswahl ist Reifegrad der Organisation und die strategische Wissensmanagementausrichtung.</p>
+<!-- Source file information -->
+<!-- Get setting from mkdocs.yml, but allow page-level overrides -->
+<!-- Inject Disqus into current page -->
+<h2 id="__comments">Kommentare</h2>
+<div id="disqus_thread"></div>
+<script>
+    var disqus_config = function() {
+      this.page.url = "https://cogneon.github.io/1-3-Implizites-und-explizites-Wissen/"
+      this.page.identifier =
+        "1-3-Implizites-und-explizites-Wissen/"
+
+    }
+
+    /* Set up for the first time */
+    if (typeof DISQUS === "undefined") {
+      var script = document.createElement("script")
+      script.async = true
+      script.src = "https://lernos.disqus.com/embed.js"
+      script.setAttribute("data-timestamp", Date.now())
+
+      /* Inject script tag */
+      document.body.appendChild(script)
+
+    /* Set up on navigation (instant loading) */
+    } else {
+      DISQUS.reset({
+        reload: true,
+        config: disqus_config
+      })
+    }
+  </script>
 </article>
 </div>
 </div>
