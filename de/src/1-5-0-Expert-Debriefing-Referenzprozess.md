@@ -2,8 +2,6 @@
 
 Der Expert Debriefing Referenzprozess besteht aus sechs Schritten, die i.d.R. über einen Zeitraum von 3-6 Monaten ablaufen. In diesem Zeitraum steht oft ein Zeitkontingent von 5-10% der Arbeitszeit zur Verfügung. Die volle Arbeitszeit von Experte und Nachfolger zu nutzen ist nicht möglich, wenn der Experte noch in Tätigkeiten eingebunden ist.
 
-
-
 ![Expert Debriefing Referenzprozess von @simondueckert, CC BY 4.0](images/Prozess-Expert-Debriefing.png)
 
 Der Prozess beinhalte folgende Aufgaben für den Moderator:
