@@ -8,7 +8,7 @@ Damit dient das Vorgespräch auch als Auftragsklärung, d.h. der gesamte Rahmen 
 
 | Prozessschritt                        | E | N | V | M |
 | ------------------------------------- |:-------:|:----------:|:------------:|:---------:|
-| Vorgespräch führen                    | X       | X          | X            | X         |
+| Vorgespräch führen                    | X       | (X)          | X            | X         |
 | Persönliche Wissenslandkarte aufbauen | X       | X          |              | X         |
 | Maßnahmen ableiten                    | X       | X          |              | X         |
 | Feedback einholen                     |         |            | X            |           |
