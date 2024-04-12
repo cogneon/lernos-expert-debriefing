@@ -6,7 +6,7 @@ Damit dient das Vorgespräch auch als Auftragsklärung, d.h. der gesamte Rahmen 
 
 **Hinweis:** es wird davon ausgegangen, dass Auftraggeber und Vorgesetzter identisch sind. Ist das nicht der Fall, muss der Personenkreis erweitert werden.
 
-| Prozessschritt                        | Experte | Nachfolger | Vorgesetzter | Moderator |
+| Prozessschritt                        | E | N | V | M |
 | ------------------------------------- |:-------:|:----------:|:------------:|:---------:|
 | Vorgespräch führen                    | X       | X          | X            | X         |
 | Persönliche Wissenslandkarte aufbauen | X       | X          |              | X         |
