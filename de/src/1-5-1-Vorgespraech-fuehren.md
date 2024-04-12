@@ -8,14 +8,14 @@ Damit dient das Vorgespräch auch als Auftragsklärung, d.h. der gesamte Rahmen 
 
 | Prozessschritt                        | E | N | V | M |
 | ------------------------------------- |:-------:|:----------:|:------------:|:---------:|
-| Vorgespräch führen                    | X       | (X)          | X            | X         |
+| Vorgespräch führen                    | X       |            | X            | X         |
 | Persönliche Wissenslandkarte aufbauen | X       | X          |              | X         |
 | Maßnahmen ableiten                    | X       | X          |              | X         |
 | Feedback einholen                     |         |            | X            |           |
 | Maßnahmen begleiten                   | X       | X          |              | X         |
 | Reflexion moderieren                  | X       | X          | X            | X         |
 
-#### Vorgehensweise (ca. 2 Stunden)
+**Vorgehensweise:**
 
 1. Vorstellungsrunde mit Klärung der Rollen.
 2. Die Methode Expert Debriefing anhand des Referenzprozesses erklären und offene Fragen beantworten.
@@ -23,11 +23,11 @@ Damit dient das Vorgespräch auch als Auftragsklärung, d.h. der gesamte Rahmen 
 4. Termine für Aufbau persönliche Wissenslandkarte, Ableitung Maßnahmen-Plan, Feedback, evtl. Begleitung der Maßnahmen sowie die Reflexion vereinbaren.
 5. Protokoll an Teilnehmer des Vorgesprächs verschicken.
 
-#### **Ressourcen und Hilfsmittel**
+**Ressourcen und Hilfsmittel:**
 
 - Vorlage **Protokoll Vorgespräch** in der Expert Debriefing Toolbox.
 
-#### **Tipps und Tricks**
+**Tipps und Tricks:**
 
 - Beamer für Präsentation und Protokoll nutzen, damit alle Beteiligten die Dokumentation sehen können.
 - Ggf. erst mit dem Vorgesetzten alleine sprechen (Fokus des Debriefings) und dann in großer Runde.

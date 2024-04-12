@@ -10,9 +10,9 @@ Die **Persönliche Wissenslandkarte** dient dazu, einen systematischen und volls
 
 ![Persönliche Wissenslandkarte (MindManager) von @simondueckert, CC BY 4.0](images/Persoenliche-Wissenslandkarte.png)
 
-#### Vorgehensweise (ca. 4 Stunden)
+**Vorgehensweise:**
 
-**PHASE 1: Arbeitshistorie** in der Persönlichen Wissenslandkarte im Bereich „Arbeitshistorie“ erheben. In einem normalen Expert Debriefing nimmt das ca. 20% der Zeit ein.
+**Abschnitt 1: Arbeitshistorie** in der Persönlichen Wissenslandkarte im Bereich „Arbeitshistorie“ erheben. In einem normalen Expert Debriefing nimmt das ca. 20% der Zeit ein.
 
 1. In welchem Zeitraum könnte sich für den Nachfolger relevantes Wissen verbergen (z.B. Zeit beim aktuellen Arbeitgeber, x Jahre)?
 1. Welche groben Phasen gab es in diesem Zeitraum? Den Zeitraum jeweils in Klammern angeben (z.B. Firma xy (1987-1993)).
@@ -21,7 +21,7 @@ Die **Persönliche Wissenslandkarte** dient dazu, einen systematischen und volls
 
 **ProTip:** für die Erarbeitung der Arbeitshistorie kann zur Auflockerung auch die Methode [Lebenslinie](https://www.christianhmeyer.de/die-lebenslinie-aus-der-vergangenheit-fuer-die-zukunft-lernen/) verwendet werden.
 
-**PHASE 2: Aufgaben** in der persönlichen Wissenslandkarte im Bereich „Aufgaben“ erheben. In einem normalen Expert Debriefing nimmt das ca. 60% der Zeit ein.
+**Abschnitt 2: Aufgaben** in der persönlichen Wissenslandkarte im Bereich „Aufgaben“ erheben. In einem normalen Expert Debriefing nimmt das ca. 60% der Zeit ein.
 
 1. Welche Aufgaben haben Sie?
    **Hinweis:** Format „Objekt + Verb“ (z.B. „Schulung durchführen“).
@@ -34,7 +34,7 @@ was ihrem Nachfolger passieren könnte? Welche Aufgaben finden sich noch in den 
 **Hinweis:** 1 = muss, 2 = sollte, 3 = sollte erledigt werden
 **Hinweis:** sinnvolle Ebene für die Priorisierung finden, z.B. Ebene unterhalb der Rollen, Prioritäten nach oben aggregieren (i.d.R. durch Schnittbildung)
 
-**PHASE 3: Wissensgebiete**, die für die Ausführung der Aufgaben benötigt werden, in der persönlichen Wissenslandkarte im Bereich „Wissensgebiete“ erheben. In einem normalen Expert Debriefing nimmt das ca. 20% der Zeit ein. Mit diesem Teil tun sich Experten meist am schwersten, da man so nicht über seine Arbeit nachdenkt.
+**Abschnitt 3: Wissensgebiete**, die für die Ausführung der Aufgaben benötigt werden, in der persönlichen Wissenslandkarte im Bereich „Wissensgebiete“ erheben. In einem normalen Expert Debriefing nimmt das ca. 20% der Zeit ein. Mit diesem Teil tun sich Experten meist am schwersten, da man so nicht über seine Arbeit nachdenkt.
 
 1. Abgeleitet aus den Aufgaben: Welche Wissensgebiete sind für die Ausführung Ihrer Aufgaben wichtig?
 **Hinweis:** Wissensgebiete in Lemma-Form (Grundwort, Singular) formulieren. Als Hilfe
@@ -57,7 +57,7 @@ viel Erfahrung? Welche Fachzeitschriften, Newsletter, Blogs etc. lesen sie regel
 1. Persönliche Wissenslandkarte als PDF exportieren, wenn die verwendete Mindmap-Software nicht bei allen Beteiligten verfügbar ist
 1. Persönliche Wissenslandkarte (und ggf. Memex) an Experten schicken (CC-Liste aus dem Vorgespräch verwenden) und um Korrektur/Ergänzung bitten
 
-#### Ressourcen und Hilfsmittel
+**Ressourcen und Hilfsmittel:**
 
 - Exkurs Fragetechniken im Expert Debriefing im Anhang des Leitfadens
 - Nückles, Gurlitt, Papst: [Mind Maps and Concept Maps. Visualisieren, Organisieren, Kommunizieren](https://amzn.to/2HahgC8)
@@ -65,7 +65,7 @@ viel Erfahrung? Welche Fachzeitschriften, Newsletter, Blogs etc. lesen sie regel
 - [XMind 8](https://www.xmind.net/de/xmind8-pro/): Freemium Software zur Erstellung von Mind Maps, kostenlose Version reicht für Expert Debriefings
 - [MindManager](http://www.mindjet.de): kommerzielle Software zur Erstellung von Mind Maps
 
-#### Tipps und Tricks
+**Tipps und Tricks:**
 
 * Die Aufgaben sollten aus Gründen der Übersichtlichkeit in einer flachen und nicht in einer hierarchischen Liste dokumentiert werden.
 * Häufig fallen dem Experten in den einzelnen Bereichen schon Maßnahmen ein, z.B. „da muss ich noch einen Projektbericht erstellen“. Die Maßnahmen entsprechend der Legende aufnehmen, so dass sie für sich aussagekräftig sind, z.B. „Bericht für Projekt XY fertigstellen“. Mit dem Mind Manager können über den Power Filter die Maßnahmen dann selektiert werden und per Copy & Paste in den Maßnahmen-Plan überführt werden.
