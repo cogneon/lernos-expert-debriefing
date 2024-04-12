@@ -8,7 +8,7 @@ Die **Persönliche Wissenslandkarte** dient dazu, einen systematischen und volls
 
 **ProTip:** Alle drei Bereiche können bereits Ideen für die Ableitung des Maßnahmen-Plans beinhalten.
 
-![Persönliche Wissenslandkarte (MindManager) von @simondueckert, CC BY 4.0](images/Persoenliche-Wissenslandkarte.png)
+![Beispiel Persönliche Wissenslandkarte](images/Persoenliche-Wissenslandkarte.png)
 
 **Vorgehensweise:**
 
@@ -48,7 +48,7 @@ viel Erfahrung? Welche Fachzeitschriften, Newsletter, Blogs etc. lesen sie regel
 **Hinweis:** analog zum Aufbau von Wissenslandkarten gilt als Daumenregel: max. 3 Ebenen, 5±2 Einträge je Ebene.
 1. Wie hoch ist aus Ihrer Sicht die Priorität jedes einzelnen Wissensgebiets
 **Hinweis:** 1=sehr wichtig, 2=wichtig, 3=weniger wichtig
-1. [optional] Wissensquellen (Personen, Daten) zu den Wissensgebieten eintragen.
+1. [optional] Wissensquellen (Personen, Daten) zu den Zweigen eintragen.
 
 **Nach dem Termin:**
 
@@ -62,7 +62,8 @@ viel Erfahrung? Welche Fachzeitschriften, Newsletter, Blogs etc. lesen sie regel
 - Exkurs Fragetechniken im Expert Debriefing im Anhang des Leitfadens
 - Nückles, Gurlitt, Papst: [Mind Maps and Concept Maps. Visualisieren, Organisieren, Kommunizieren](https://amzn.to/2HahgC8)
 - [Freeplane](https://www.freeplane.org): kostenlose Software zur Erstellung von Mind Maps, [FreeMind](http://freemind.sourceforge.net/) ist auch beliebt, wird aber seit 2014 nicht mehr weiterentwickelt
-- [XMind 8](https://www.xmind.net/de/xmind8-pro/): Freemium Software zur Erstellung von Mind Maps, kostenlose Version reicht für Expert Debriefings
+- [Markmap](https://markmap.js.org/): Mindmapping auf Basis von Markdown-Dateien
+- [XMind](https://xmind.app/): Freemium Software zur Erstellung von Mind Maps, kostenlose Version reicht für Expert Debriefings
 - [MindManager](http://www.mindjet.de): kommerzielle Software zur Erstellung von Mind Maps
 
 **Tipps und Tricks:**

@@ -4,7 +4,7 @@ die Bedienung von Software kann man auch als Textdokument mit Screenshots erklä
 
 #### Vorgehensweise
 
-1. Tool für die Screencast-Erstellung auswählen, z.B. PowerPoint, OneNote, MS Teams, Zoom, OBS.
+1. Tool für die Screencast-Erstellung auswählen, z.B. PowerPoint, OneNote, , Snipping Tool, Snagit, Camtasia, Screenpresso, MS Teams, Zoom, OBS.
 2. Text für die Tonspur stichpunktartig überlegen.
 3. Desktop aufräumen und darauf achten, dass keine Fenster mit sensiblen Daten im Screencast zu sehen sind.
 4. Screencast aufnehmen. Dabei auf gutes Mikrofon und ruhige Umgebung achten.

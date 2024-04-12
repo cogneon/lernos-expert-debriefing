@@ -7,7 +7,7 @@ Wissen ist immer in einen Kontext eingebettet. Dieser Kontext ist in einer erzä
 Vor diesem Hintergrund dient ein Podcast dazu, einen Zusammenhang in
 Audioform darzustellen und einem Nachfolger zu vermitteln. Podcasts werden als Werkzeug immer dann eingesetzt, wenn der Nachfolger nicht an den Maßnahmen teilnehmen kann, z.B. als Podcast mit Durchsprache der Aufgaben der persönlichen Wissenslandkarte.
 
-#### Vorgehensweise
+**Vorgehensweise:**
 
 1. Relevante Themen identifizieren, zu denen Podcasts erstellt werden sollen.
 2. Produktionsumgebung definieren, z.B. Mikrofon, Audio-Rekorder, Audio-Editor
@@ -18,7 +18,7 @@ Audioform darzustellen und einem Nachfolger zu vermitteln. Podcasts werden als W
 6. Podcast an Nachfolger übergeben.
 **Hinweis:** sicherstellen, dass Nachfolger über die Infrastruktur verfügt, um Podcasts anhören zu können (z.B. Audioplayer, Kopfhörer).
 
-#### Ressourcen und Hilfsmittel
+**Ressourcen und Hilfsmittel:**
 
 * [Audacity](http://audacity.sourceforge.net) - freier Audioeditor und –rekorder.
 * Sprachmemo App auf dem Smartphone (z.B. iPhone)

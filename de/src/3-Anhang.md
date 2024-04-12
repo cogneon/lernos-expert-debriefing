@@ -50,6 +50,7 @@ Im Expert Debriefing kommen immer Mischformen vor. Hinter den Beispielen sind di
 
 | Version | Bearbeitet von | Beschreibung Änderung | Datum |
 |---------|----------------|-----------------------|-------|
+| 1.0 | Simon Dückert | Erstellung des Expert Debriefing Leitfadens im Rahmen des [Expert-Debriefing-Einführungsprojektes bei Schaeffler](https://cloud.cogneon.de/s/WiiRfj64CFoc3g2). | 2006 |
 | 2.0 | Simon Dückert | Beschreibung des neuen Prozesses, Überarbeitung des Werkzeugkastens. | 09.02.2009 |
 | 2.1 | Marc Nitschke, Simon Dückert | Überarbeitung des Prozesses, Integration des Werkzeugkastens. | 23.06.2011 |
 | 2.2 | Marc Nitschke | Ergänzungen in 2.1 Vorgespräch führen, 2.3 Persönliche Wissenslandkarte aufbauen und 2.4 Maßnahmen ableiten. | 08.10.2012 |

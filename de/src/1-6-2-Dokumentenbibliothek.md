@@ -4,7 +4,7 @@ Experten sammeln im Laufe Ihrer Arbeitshistorie meist beträchtliche Mengen an D
 
 Um dem Nachfolger den Zugang zu diesen Dokumenten zu ermöglichen müssen relevante Dokumente gefiltert, strukturiert und in einen Arbeitskontext gestellt werden. Die Dokumente werden dem Nachfolger in Form von einer oder mehrerer **Dokumentenbibliotheken** (en.: document repository) übergeben. Nicht mehr benötigte Dokumente werden gelöscht oder archiviert.
 
-#### Vorgehensweise
+**Vorgehensweise:**
 
 1. Relevante Dokumentquellen definieren, z.B. Schreibtisch, Ordnungssysteme im Büro (z.B. Regal, Aktenschrank, Hängeregister), Ordnungssysteme außerhalb des Büros (z.B. Archiv), Persönlicher PC, Persönliches Laufwerk, Abteilungslaufwerk, Projektlaufwerke, Intranet und andere Informationssystem
 2. Ziel(e) für die Dokumentenbibliothek(en) definieren, z.B. Laufwerk, USB-Stick.
@@ -13,7 +13,7 @@ Um dem Nachfolger den Zugang zu diesen Dokumenten zu ermöglichen müssen releva
 5. [optional] Dokumentenbibliothek(en) mit der persönlichen Wissenslandkarte bzw. dem persönlichen Wiki verlinken.
 6. Dokumentenbibliothek(en) in einem moderierten Übergabegespräch mit Experte und Nachfolger durchsprechen (ggf. in Screencast).
 
-#### Ressourcen und Hilfsmittel
+**Ressourcen und Hilfsmittel:**
 
 * Margit Gätjens-Reuter: [Ablage. Information optimal organisieren](https://amzn.to/3jZWIuB).
 * Steinbrecher, W., Müll-Schnurr, M.: [Prozessorientierte Ablage](https://amzn.to/3lQNQro).

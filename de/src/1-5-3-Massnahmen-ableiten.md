@@ -2,12 +2,12 @@
 
 Die Ableitung des **Maßnahmen-Plans** dient dazu, geeignete Maßnahmen zur Wissensbewahrung zu identifizieren, diese sowohl durch Experten als auch durch den Nachfolger priorisieren zu lassen und anschließend alle Maßnahmen zu terminieren. Damit wird ersichtlich, welche Maßnahmen ggf. nicht mehr in die zur Verfügung stehende Zeit passen.
 
-![Maßnahmen-Plan mit Beispielen von @simondueckert, CC BY 4.0](images/Massnahmen-Plan.png)
+![Beispiel Maßnahmen-Plan in Excel](images/Massnahmen-Plan.png)
 
-#### Vorgehensweise (ca. 3 Stunden)
+**Vorgehensweise (ca. 3 Stunden):**
 
 1. Übersicht Werkzeugkasten Expert Debriefing mit den einzelnen Werkzeugen erklären, damit alle Wissen, welche Möglichkeiten zur Verfügung stehen (Methoden wie Screencasts sind oft unbekannt).
-2. Übernahme der bereits identifizierten Maßnahmen aus der persönlichen Wissenslandkarte.
+2. Übernahme der bereits identifizierten Maßnahmen aus der persönlichen Wissenslandkarte in der Reihenfolge Prio 1, 2, 3 Themen, um den Aufwand für die Maßnahmen mit der zur Verfügung stehenden Zeit abgleichen zu können.
 3. Bereiche „Arbeitshistorie“, „Aufgaben“ und „Wissensgebiete“ in der persönlichen Wissenslandkarte durchgehen und überlegen, ob sich daraus notwendige Maßnahmen ergeben. Diese Maßnahmen ebenfalls in den Maßnahmen-Plan eintragen.
 4. Je Maßnahme die (geschätzte) Dauer und die Beteiligten in den Maßnahmenplan eintragen
 5. Maßnahmen im Maßnahmen-Plan durch den Experten und Nachfolger priorisieren lassen. Den Maßnahmen-Plan nach Priorisierung sortieren.
