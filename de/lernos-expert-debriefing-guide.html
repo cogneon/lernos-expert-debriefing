@@ -61,6 +61,10 @@
     img {
       max-width: 100%;
     }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
     h1, h2, h3, h4, h5, h6 {
       margin-top: 1.4em;
     }
@@ -153,17 +157,17 @@
     div.columns{display: flex; gap: min(4vw, 1.5em);}
     div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
     ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
       width: 0.8em;
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <!--[if lt IE 9]>
-    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
-  <![endif]-->
 </head>
 <body>
 <header id="title-block-header">
@@ -718,7 +722,7 @@ muss der Personenkreis erweitert werden.</p>
 <col style="width: 13%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Prozessschritt</th>
 <th style="text-align: center;">E</th>
 <th style="text-align: center;">N</th>
@@ -727,42 +731,42 @@ muss der Personenkreis erweitert werden.</p>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>Vorgespräch führen</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;">X</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Persönliche Wissenslandkarte aufbauen</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">X</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Maßnahmen ableiten</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">X</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Feedback einholen</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="odd">
+<tr>
 <td>Maßnahmen begleiten</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;">X</td>
 </tr>
-<tr class="even">
+<tr>
 <td>Reflexion moderieren</td>
 <td style="text-align: center;">X</td>
 <td style="text-align: center;">X</td>
@@ -1643,7 +1647,7 @@ class="header-section-number">5.2</span> Änderungshistorie</h2>
 <col style="width: 12%" />
 </colgroup>
 <thead>
-<tr class="header">
+<tr>
 <th>Version</th>
 <th>Bearbeitet von</th>
 <th>Beschreibung Änderung</th>
@@ -1651,7 +1655,7 @@ class="header-section-number">5.2</span> Änderungshistorie</h2>
 </tr>
 </thead>
 <tbody>
-<tr class="odd">
+<tr>
 <td>1.0</td>
 <td>Simon Dückert</td>
 <td>Erstellung des Expert Debriefing Leitfadens im Rahmen des <a
@@ -1659,41 +1663,41 @@ href="https://cloud.cogneon.de/s/WiiRfj64CFoc3g2">Expert-Debriefing-Einführungs
 bei Schaeffler</a>.</td>
 <td>2006</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2.0</td>
 <td>Simon Dückert</td>
 <td>Beschreibung des neuen Prozesses, Überarbeitung des
 Werkzeugkastens.</td>
 <td>09.02.2009</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>2.1</td>
 <td>Marc Nitschke, Simon Dückert</td>
 <td>Überarbeitung des Prozesses, Integration des Werkzeugkastens.</td>
 <td>23.06.2011</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2.2</td>
 <td>Marc Nitschke</td>
 <td>Ergänzungen in 2.1 Vorgespräch führen, 2.3 Persönliche
 Wissenslandkarte aufbauen und 2.4 Maßnahmen ableiten.</td>
 <td>08.10.2012</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>2.3</td>
 <td>Marc Nitschke</td>
 <td>Einfügung der Kapitel 1.2 Erfolgsfaktoren für die Durchführung und
 2.2 Exkurs: Fragetechniken.</td>
 <td>21.11.2012</td>
 </tr>
-<tr class="even">
+<tr>
 <td>2.4</td>
 <td>Simon Dückert</td>
 <td>Überführung des Leitfadens in das Format der lernOS Leitfäden. Keine
 inhaltlichen Anpassungen.</td>
 <td>19.11.2018</td>
 </tr>
-<tr class="odd">
+<tr>
 <td>3.0</td>
 <td>Simon Dückert</td>
 <td>Überarbeitung des Grundlagen-Kapitels, Aktualisierung der Toolbox
