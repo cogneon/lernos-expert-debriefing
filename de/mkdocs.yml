@@ -51,6 +51,9 @@ theme:
     icon:
       logo: material/home
       repo: fontawesome/brands/github
+    features:
+      - toc.integrate
+      - search.share
 
 extra_css:
   - stylesheets/extra.css
@@ -60,22 +63,16 @@ repo_url: 'https://github.com/cogneon/lernos-expert-debriefing'
 
 extra:
     social:
-        - icon: fontawesome/brands/twitter
-          link: 'https://twitter.com/lern_os'
+        - icon: fontawesome/brands/mastodon
+          link: 'https://colearn.social/@lernos'
         - icon: fontawesome/brands/linkedin
           link: 'https://www.linkedin.com/showcase/lern-os'
         - icon: fontawesome/brands/github
           link: 'https://github.com/cogneon'
-    disqus: lernos
+    giscus: true
     analytics:
        provider: custom
-
-markdown_extensions:
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+    generator: false
 
 plugins:
   - search
