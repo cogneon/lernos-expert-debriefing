@@ -33,12 +33,13 @@ nav:
     - Lernpfad: 2-0-Lernpfad.md
     - Anhang: 3-Anhang.md
     - Download:
-      - PDF-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernos-expert-debriefing-guide.pdf
-      - Word-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernos-expert-debriefing-guide.docx
-      - HTML-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernos-expert-debriefing-guide.html
-      - E-Book (epub): https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernos-expert-debriefing-guide.epub
+      - PDF-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.pdf
+      - Word-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.docx
+      - HTML-Version: https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.html
+      - E-Book (epub): https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.epub
+      - Markdown (für KI-Chatbots): https://github.com/cogneon/lernos-expert-debriefing/blob/master/de/lernOS-expert-debriefing-Guide-de.md
     - Links:
-      - lernOS Website: https://lernos.org
+      - lernos.orgs: https://lernos.org
       - lernOS Community: https://community.cogneon.de
       - Peerfinder: https://web.peerfinder.app
 

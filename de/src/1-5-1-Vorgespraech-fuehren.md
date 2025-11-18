@@ -6,14 +6,14 @@ Damit dient das Vorgespräch auch als Auftragsklärung, d.h. der gesamte Rahmen 
 
 **Hinweis:** es wird davon ausgegangen, dass Auftraggeber und Vorgesetzter identisch sind. Ist das nicht der Fall, muss der Personenkreis erweitert werden.
 
-| Prozessschritt                        | E | N | V | M |
-| ------------------------------------- |:-------:|:----------:|:------------:|:---------:|
-| Vorgespräch führen                    | X       |            | X            | X         |
-| Persönliche Wissenslandkarte aufbauen | X       | X          |              | X         |
-| Maßnahmen ableiten                    | X       | X          |              | X         |
-| Feedback einholen                     |         |            | X            |           |
-| Maßnahmen begleiten                   | X       | X          |              | X         |
-| Reflexion moderieren                  | X       | X          | X            | X         |
+| Prozessschritt | E | N | V | M |
+| --- | :---: | :---: | :---: | :---: |
+| Vorgespräch führen | X | | X | X |
+| Persönliche Wissenslandkarte aufbauen | X | X | | X |
+| Maßnahmen ableiten | X | X | | X |
+| Feedback einholen | | | X | |
+| Maßnahmen begleiten  | X | X | | X |
+| Reflexion moderieren | X | X | X | X |
 
 **Vorgehensweise:**
 

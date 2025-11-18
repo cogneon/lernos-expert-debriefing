@@ -9,11 +9,14 @@ chapters="./src/index.md ./src/1-0-Grundlagen.md ./src/1-1-Geschichte-des-Expert
 echo Deleting old versions ...
 rm -rf $filename.*
 rm -rf ../docs/de/*
-#rm -ff ../docs/de-slides/index.html
 
 # Create Web Version (mkdocs)
 echo Creating Web Version ...
 mkdocs build
+
+# Create Markdown Version (md, one file)
+echo Creating Markdown version ...
+pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filter --number-sections -V lang=de-de -o $filename.md $chapters
 
 # Create Microsoft Word Version (docx)
 echo Creating Word version ...
@@ -25,16 +28,12 @@ pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filte
 
 # Create PDF Version (pdf)
 echo Creating PDF version ...
+pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filter --template lernos --number-sections --toc -V lang=de-de -o $filename.tex $chapters
 pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filter --template lernos --number-sections --toc -V lang=de-de -o $filename.pdf $chapters
 
-# Create eBook Versions (epub, mobi)
+# Create eBook Version (epub)
 echo Creating eBook versions ...
 magick -density 300 $filename.pdf[0] src/images/ebook-cover.jpg
 mogrify -size 2500x2500 -resize 2500x2500 src/images/ebook-cover.jpg
 mogrify -crop 1563x2500+102+0 src/images/ebook-cover.jpg
 pandoc metadata.yaml --from markdown -s --resource-path="./src" -F mermaid-filter --epub-cover-image=src/images/ebook-cover.jpg --number-sections --toc -V lang=de-de -o $filename.epub $chapters
-ebook-convert $filename.epub $filename.mobi
-
-# Create Slides (revealjs)
-# echo Creating Presentation ...
-# pandoc metadata.yaml --from markdown -s --resource-path="./src" -t revealjs -V theme=night -s ./slides/index.md -o ../docs/de-slides/index.html
